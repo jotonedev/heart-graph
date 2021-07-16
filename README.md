@@ -6,7 +6,7 @@ Plot your heart rate from your exported Mi Fit data
 ## How to use
 From Mi Fit app:
 1. Go to Profile → settings → about → user rights → export data
-2. Login with you account
+2. Login with your account
 3. Select Heart rate
 
 On your computer:
