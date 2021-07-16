@@ -15,7 +15,7 @@ On your computer:
 3. Extract it
 4. Move the csv file, inside `HEARTRATE_AUTO`, to the `data` folder inside the repo
 5. Rename the csv file to `heartrate.csv`
-6. Compile [data.pyx](#How-to-compile-data.pyx)
+6. Compile [data.pyx](#How-to-compile-datapyx)
 7. Run `python main.py`
 
 
